@@ -1,0 +1,20 @@
+@media (min-width: 768px) {
+    .news-input {
+        width: 100%;
+    }
+    .custom-toggler{
+        color: aliceblue;
+    }
+
+}
+body::before{
+    display: block;
+    content: "";
+    height: 60px;
+}
+.j97{
+    width: 200px;
+    height: 200px;
+    object-fit: cover; 
+    clip-path: circle(50% at 50% 50%);
+}
